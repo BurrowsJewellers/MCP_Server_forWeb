@@ -1,0 +1,2 @@
+# MCP_Server_forWeb
+202509_MCPServerForeWebQueries
